@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "There are $COUNT directories in the PATH."
