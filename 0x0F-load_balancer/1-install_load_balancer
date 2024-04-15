@@ -41,7 +41,7 @@ frontend hlina-tech-frontend
 backend hlina-tech-backend
     balance roundrobin
     server 516328-web-01 100.25.16.69:80 check
-    server 516328-web-02 52.86.74.132:80 check
+    server 516328-web-02 100.24.253.208:80 check
 "
 
 # shellcheck disable=SC2154
